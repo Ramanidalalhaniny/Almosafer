@@ -6,7 +6,6 @@
       <class name="qa_almosafer.test_Almosafer">
         <methods>
           <include name="my_setup"/>
-          <include name="randomly_change_the_language"/>
           <include name="sort"/>
         </methods>
       </class> <!-- qa_almosafer.test_Almosafer -->

@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="7" total="8" passed="1" failed="0" skipped="0">
+<testng-results ignored="4" total="9" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-22T20:48:30 EET" name="Default suite" finished-at="2024-12-22T20:48:36 EET" duration-ms="6281">
+  <suite started-at="2024-12-23T15:37:29 EET" name="Default suite" finished-at="2024-12-23T15:38:43 EET" duration-ms="73759">
     <groups>
     </groups>
-    <test started-at="2024-12-22T20:48:30 EET" name="Default test" finished-at="2024-12-22T20:48:36 EET" duration-ms="6281">
+    <test started-at="2024-12-23T15:37:29 EET" name="Default test" finished-at="2024-12-23T15:38:43 EET" duration-ms="73759">
       <class name="qa_almosafer.test_Almosafer">
-        <test-method is-config="true" signature="my_setup()[pri:0, instance:qa_almosafer.test_Almosafer@294e5088]" started-at="2024-12-22T20:48:30 EET" name="my_setup" finished-at="2024-12-22T20:48:36 EET" duration-ms="5726" status="PASS">
+        <test-method is-config="true" signature="my_setup()[pri:0, instance:qa_almosafer.test_Almosafer@51972dc7]" started-at="2024-12-23T15:37:29 EET" name="my_setup" finished-at="2024-12-23T15:37:40 EET" duration-ms="10881" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- my_setup -->
-        <test-method signature="check_en_language_is_defult()[pri:1, instance:qa_almosafer.test_Almosafer@294e5088]" started-at="2024-12-22T20:48:36 EET" name="check_en_language_is_defult" finished-at="2024-12-22T20:48:36 EET" duration-ms="494" status="PASS">
+        <test-method signature="check_hotel_tap_is_not_select()[pri:5, instance:qa_almosafer.test_Almosafer@51972dc7]" started-at="2024-12-23T15:37:40 EET" name="check_hotel_tap_is_not_select" finished-at="2024-12-23T15:37:40 EET" duration-ms="75" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- check_en_language_is_defult -->
+        </test-method> <!-- check_hotel_tap_is_not_select -->
+        <test-method signature="check_date()[pri:6, instance:qa_almosafer.test_Almosafer@51972dc7]" started-at="2024-12-23T15:37:40 EET" name="check_date" finished-at="2024-12-23T15:37:40 EET" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_date -->
+        <test-method signature="randomly_change_the_language()[pri:7, instance:qa_almosafer.test_Almosafer@51972dc7]" started-at="2024-12-23T15:37:40 EET" name="randomly_change_the_language" finished-at="2024-12-23T15:37:52 EET" duration-ms="11788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomly_change_the_language -->
+        <test-method signature="check_the_page_is_fully_loded()[pri:8, instance:qa_almosafer.test_Almosafer@51972dc7]" started-at="2024-12-23T15:37:52 EET" name="check_the_page_is_fully_loded" finished-at="2024-12-23T15:38:22 EET" duration-ms="30144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_the_page_is_fully_loded -->
+        <test-method signature="sort()[pri:9, instance:qa_almosafer.test_Almosafer@51972dc7]" started-at="2024-12-23T15:38:22 EET" name="sort" finished-at="2024-12-23T15:38:43 EET" duration-ms="20622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort -->
       </class> <!-- qa_almosafer.test_Almosafer -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
